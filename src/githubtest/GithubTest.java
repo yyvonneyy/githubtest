@@ -6,6 +6,6 @@ public class GithubTest {
 		System.out.println("GitHub Test2");
 		System.out.println("GitHub Test3");
 		System.out.println("GitHub Test4-직접수정");
-		
+		System.out.println("GitHub Test5-변경");
 	}
 }
